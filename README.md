@@ -30,5 +30,5 @@ https://docs.google.com/spreadsheets/d/13E6AS66dD5kO02uJGmJI3qpksFy7hjkh/edit#gi
 ```
 ## Link GitHub Repository
 ```
-
+https://github.com/mpermanak/SANBER-45-MOBILE_AUTOMATION.git
 ```
