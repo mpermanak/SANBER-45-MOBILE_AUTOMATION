@@ -21,8 +21,14 @@ Install
   npm run wdio
 ```
 ## Link Dokumen Tes Skenario
+```
 https://docs.google.com/spreadsheets/d/13E6AS66dD5kO02uJGmJI3qpksFy7hjkh/edit#gid=1413968249
-
+```
 ## Link Video Recording Running Application
+```
 
+```
 ## Link GitHub Repository
+```
+
+```
