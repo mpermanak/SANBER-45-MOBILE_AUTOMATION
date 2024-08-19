@@ -32,3 +32,4 @@ https://drive.google.com/drive/u/0/folders/1mcVL1kdqVTMezRWczhktoMnHdGxV0eww
 ```
 https://github.com/mpermanak/SANBER-45-MOBILE_AUTOMATION.git
 ```
+This project is tested with BrowserStack.
